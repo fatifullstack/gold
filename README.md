@@ -1,7 +1,7 @@
 <h1><a href="https://ui-lib.com/downloads/matx-react-dashboard/">Matx React Material Design Admin Dashboard Template</a></h1>
 
 <a href="https://matx-react-free.netlify.app/">
-  <img alt="Matx React Admin" src="https://github.com/aitfriha/goldeMine/blob/master/public/screnn%20sms%20system.png" />
+  <img alt="Matx React Admin" src="https://github.com/fatifullstack/gold/blob/master/public/screnn%20sms%20system.png" />
 </a>
 
 <p>MatX is a full-featured React Material UI Admin Dashboard template. MatX is built with React, Redux & Material UI We implemented all the features you might need to start a new Web application. The free version includes all Material UI components, Form elements, and validation, JWT authentication, Sign in, sign up pages,  Vertical navigation, Lazy loading, Code splitting.</p>
